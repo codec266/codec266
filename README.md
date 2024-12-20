@@ -1,18 +1,18 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://tenor.com/view/priscilla-barielle-re-zero-season-3-gif-9727208137166251210">
+    <img src="priscilla.gif" alt="banner">
+  </a>
+</p>
 
-![codec's GitHub stats](https://github-readme-stats.vercel.app/api?username=codec266&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codec266&layout=compact&theme=dark)
-<!--
-**codec266/codec266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello, I'm codec!</h1>
+<h3 align="center">Welcome to my bad GitHub profile 🔥</h3>
+<p align="center">😔 I'm currently a computer science student @ some random university</p>
 
-Here are some ideas to get you started:
+<p align ="center">
+  <img src= "https://lanyard.cnrad.dev/api/1240277088133582908?hideActivity=true&borderRadius=20px&bg=242424" >
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codec266&show_icons=true&theme=darcula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codec266&layout=compact&theme=darcula">
+</p>
