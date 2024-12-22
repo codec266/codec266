@@ -9,7 +9,7 @@
 <p align="center">😔 I'm currently a computer science student @ some random university</p>
 
 <p align ="center">
-  <a href="https://discord.com/users/1240277088133582908">
+  <a href="https://discord.com/users/1240277088133582908" target="_blank">
     <img src= "https://lanyard.cnrad.dev/api/1240277088133582908?hideActivity=true&borderRadius=20px&bg=242424">
   </a>
 </p>
