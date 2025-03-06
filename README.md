@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://tenor.com/view/priscilla-barielle-re-zero-season-3-gif-3494556374151434544">
-    <img src="priscilla2.gif" alt="banner">
-  </a>
+  <img src="priscilla3.gif" alt="banner">
 </p>
 
 <h1 align="center">Hello, I'm codec!</h1>
