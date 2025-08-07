@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="priscilla2.gif" alt="banner">
+  <img src="fern.gif" alt="banner">
 </p>
 
 <h1 align="center">Hello, I'm codec!</h1>
