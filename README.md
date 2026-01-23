@@ -2,9 +2,9 @@
   <img src="fern.gif" alt="banner">
 </p>
 
-<h1 align="center">Hello, I'm codec!</h1>
-<h3 align="center">Welcome to my bad GitHub profile 🔥</h3>
-<p align="center">😔 I'm currently a computer science student @ some random university</p>
+<h1 align="center">hello, I'm codec!</h1>
+<h3 align="center">welcome to my GitHub profile 🔥</h3>
+<p align="center">currently a computer science student @ mapúa university</p>
 
 <p align ="center">
   <a href="https://discord.com/users/1240277088133582908">
