@@ -1,1 +1,3 @@
-おはよ
+```console
+codec@github:~$ echo "どうも"
+```
